@@ -49,7 +49,7 @@ export default function HomePage(){
                 className='w-full h-auto rounded-md'
                 />
             </div>
-            <div className="mx-auto mb-12 p-3 sm:w-[400px] w-10/12 sm:h-[120px] bg-white border-[#CDCDCD] border-1 rounded-lg">
+            <div className="mx-auto mb-12 p-3 sm:w-[400px] w-[86%] sm:h-[120px] bg-white border-[#CDCDCD] border-1 rounded-lg">
                 <div className="flex flex-row items-center pb-4">
                     <div className='relative sm:w-9 sm:h-9 w-7 h-7 mr-3'>
                         <Image
