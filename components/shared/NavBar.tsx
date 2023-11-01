@@ -6,7 +6,7 @@ import Image from "next/image"
 export default function NavBar(){
     const [ activeIndex ] = useSlideNavigationStore((state)=> [state.activeIndex]);
     return(
-        <div className="w-full h-16 border-b-1 bg-white">
+        <div className="sticky top-9 z-50 w-full h-16 border-[#CDCDCD] border-b-1 bg-white">
             <div className="xl:max-w-[70rem] lg:max-w-[60rem] md:max-w-[45rem] sm:max-w-[35rem] w-11/12 h-full mx-auto flex flex-row items-center justify-between">
                 <div className="flex flex-row items-center -ml-3"> 
                     <div className='relative h-11 w-11 mr-3'>
