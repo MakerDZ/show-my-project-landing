@@ -49,6 +49,23 @@ export default function HomePage(){
                 className='w-full h-auto rounded-md'
                 />
             </div>
+            <div className="mx-auto mb-12 p-3 sm:w-[400px] w-10/12 sm:h-[120px] bg-white border-[#CDCDCD] border-1 rounded-lg">
+                <div className="flex flex-row items-center pb-4">
+                    <div className='relative sm:w-9 sm:h-9 w-7 h-7 mr-3'>
+                        <Image
+                        src="/fbLogo.png"
+                        alt="The Logo"
+                        fill
+                        />
+                    </div>
+                    <p className="text-[#2F7EFF] font-bold sm:text-lg text-base -ml-1">Group at facebook</p>
+                </div>
+                <a href="https://www.facebook.com/groups/showmyproject">
+                    <button className="bg-[#0866FF] font-bold text-white w-full sm:py-2 py-2 rounded-md sm:text-base text-xs">
+                        Join Now
+                    </button>
+                </a>
+            </div>
         </div>
     )
 }
