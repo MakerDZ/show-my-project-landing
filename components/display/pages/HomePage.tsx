@@ -18,7 +18,7 @@ export default function HomePage(){
             </div>
             <p className="text-[#4E4E4E] text-lg sm:max-w-[400px] pt-6 sm:text-center sm:mx-auto font-medium">ကိုယ့် project ​​လေးတွေ ကိုယ်တိုင်လုပ်​နေကြတဲ့ သူ​တွေ အားလုံးအတွက် project ​​လေးတွေကို mentally secure ဖြစ်ဖြစ်နဲ့ sharing ​ကောင်း​ကောင်းလုပ်လို့ရနိုင်မဲ့ ​နေရာ​လေးတစ်ခုကို ဖန်တီးထားပါတယ်။</p>
             <div className="pt-5">
-                <div className='absolute sm:w-72 w-56 h-auto left-[40%] -mt-12 -z-10'>
+                <div className='absolute sm:w-72 w-60 h-auto xl:left-[40%] lg:left-[37%] md:left-[33%] sm:left-[28%] left-[25%] sm:-mt-12 -mt-8 -z-10'>
                     <Image
                     src="/imageBg.png"
                     alt="The Background"
@@ -28,7 +28,7 @@ export default function HomePage(){
                     className='w-full h-auto rounded-md'
                     />
                 </div>
-                <div className='mx-auto w-[460px] pt-12 z-10'>
+                <div className='mx-auto sm:w-[460px] w-full pt-12 z-10'>
                     <Image
                     src="/fbGroup.png"
                     alt="The Background"
