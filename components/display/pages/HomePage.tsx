@@ -25,7 +25,7 @@ export default function HomePage(){
                     width="0"
                     height="0"
                     sizes="100vw"
-                    className='w-full h-auto rounded-md'
+                    className='w-full h-auto'
                     />
                 </div>
                 <div className='mx-auto sm:w-[460px] w-full pt-12 z-10'>
@@ -35,7 +35,7 @@ export default function HomePage(){
                     width="0"
                     height="0"
                     sizes="100vw"
-                    className='w-full h-auto rounded-md'
+                    className='w-full h-auto rounded-md border-[#CDCDCD] border-1'
                     />
                 </div>
             </div>
