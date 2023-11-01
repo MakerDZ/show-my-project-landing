@@ -13,12 +13,6 @@ module.exports = {
       fontFamily: {
         'nunito': ['Nunito', 'sans-serif'],
       },
-      screens: {
-        'xxs': '200px', // min-width
-        'xs' : '400px',
-        'sm' : '550px',
-        'md' : '806px'
-      },
     },
   },
   darkMode: "class",

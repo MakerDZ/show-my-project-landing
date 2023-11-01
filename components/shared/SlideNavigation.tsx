@@ -16,7 +16,7 @@ export default function SlideNavigation(){
 
     return(
         <section className="w-full bg-[#7B57FC] h-9 rounded-md">
-            <div className="xl:max-w-[70rem] lg:max-w-[60rem] md:max-w-[45rem] sm:max-w-[35rem] max-w-[25rem] h-full mx-auto flex flex-col justify-center relative">
+            <div className="xl:max-w-[70rem] lg:max-w-[60rem] md:max-w-[45rem] sm:max-w-[35rem] w-11/12 h-full mx-auto flex flex-col justify-center relative">
               <div className="absolute right-0 flex flex-row space-x-2 ">
                   {slideComponents}
               </div>
