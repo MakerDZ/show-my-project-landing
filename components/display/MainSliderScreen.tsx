@@ -4,6 +4,8 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { useSlideNavigationStore } from '@/store/slide-navigation';
 import 'swiper/css';
 import HomePage from './pages/HomePage';
+import AboutPage from './pages/AboutPage';
+import AnnouncePage from './pages/AnnouncePage';
 
 export default function MainSliderScreen(){
     const [setSwiper , setTotalIndex, setActiveIndex ] = useSlideNavigationStore((state) => [state.setSwiper , state.setTotalIndex, state.setActiveIndex]);
@@ -26,8 +28,12 @@ export default function MainSliderScreen(){
                 <SwiperSlide className='slider'>
                     <HomePage />
                 </SwiperSlide>
-                <SwiperSlide className='slider'>Slide 2</SwiperSlide>
-                <SwiperSlide className='slider'>Slide 3</SwiperSlide>
+                <SwiperSlide className='slider'>
+                    <AboutPage />
+                </SwiperSlide>
+                <SwiperSlide className='slider'>
+                    <AnnouncePage />
+                </SwiperSlide>
         </Swiper>
     )
 }
