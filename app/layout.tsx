@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 		apple: "/apple-touch-icon.png",
 	},
 	openGraph : {
-		title : "SHow My Project",
+		title : "Show My Project",
 		description : "Techie ​တွေ၊ coder တွေ၊ ui/uxer ​တွေ အတွက် ကိုယ်လုပ်ထားတဲ့ project ​​လေးတွေကို sharing လုပ်လို့ရနိုင်မဲ့​ group ​လေးပဲဖြစ်ပါတယ်။",
 		images : "/thumbnail.png"
 	}
