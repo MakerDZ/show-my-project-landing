@@ -9,7 +9,17 @@ module.exports = {
     './node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}'
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'nunito': ['Nunito', 'sans-serif'],
+      },
+      screens: {
+        'xxs': '200px', // min-width
+        'xs' : '400px',
+        'sm' : '550px',
+        'md' : '806px'
+      },
+    },
   },
   darkMode: "class",
   plugins: [nextui()],
