@@ -7,12 +7,12 @@ export default function AboutPage(){
 
                 {/* The Big Bang Container */}
                 <div className="w-full h-auto relative">
-                    <div className="absolute rounded-md font-bold md:-right-16 sm:-top-5 text-white bg-black sm:py-2 sm:px-3 -right-6 -top-3 px-2 py-1 sm:-right-10">
+                    <div className="absolute rounded-md font-bold md:-right-16 sm:-top-5 text-white bg-black sm:py-2 sm:px-3 -right-6 -top-6 px-2 py-1 sm:-right-10">
                         The Big Bang
                     </div>
-                    <div className="bg-[#F16D25] xl:h-32 sm:h-28 h-24 rounded-2xl flex flex-col justify-center">
-                        <div className="h-auto mx-auto flex flex-row w-10/12 xl:space-x-5 lg:space-x-4 md:space-x-3 sm:space-x-2 space-x-1 items-center">
-                            <div className='relative md:h-[70px] md:w-[70px] w-16 h-14 mr-3'>
+                    <div className="bg-[#F16D25] xl:h-32 sm:h-28 h-24 md:rounded-2xl rounded-xl flex flex-col justify-center">
+                        <div className="h-auto mx-auto flex flex-row sm:w-10/12 w-11/12 xl:space-x-5 lg:space-x-4 md:space-x-3 sm:space-x-2 space-x-0 items-center">
+                            <div className='relative md:h-[70px] md:w-[70px] w-20 h-14 mr-3'>
                                 <Image
                                 src="/bigbang.jpg"
                                 alt="The Big Bang"
@@ -20,7 +20,7 @@ export default function AboutPage(){
                                 className="border-solid border-white border-3 rounded-md"
                                 />
                             </div>
-                            <p className="text-white xl:text-xl text-lg font-extrabold w-80">Show My Project ကို ဘာ​ကြောင့် စတင်ခဲ့ရတာလဲ။</p>
+                            <p className="text-white :text-xl sm:text-lg text-sm font-extrabold w-80">Show My Project ကို ဘာ​ကြောင့် စတင်ခဲ့ရတာလဲ။</p>
                         </div>
                     </div>
                 </div>
