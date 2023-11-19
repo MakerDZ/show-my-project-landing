@@ -10,7 +10,7 @@ export default function AboutPage(){
                     <div className="absolute rounded-md font-bold md:-right-16 sm:-top-5 text-white bg-black sm:py-2 sm:px-3 -right-6 -top-6 px-2 py-1 sm:-right-10">
                         The Big Bang
                     </div>
-                    <div className="bg-[#F16D25] xl:h-32 sm:h-28 h-20 md:rounded-2xl rounded-xl flex flex-col justify-center">
+                    <div className="bg-[#F16D25] xl:h-32 sm:h-28 h-24 md:rounded-2xl rounded-xl flex flex-col justify-center">
                         <div className="h-auto mx-auto flex flex-row sm:w-10/12 w-11/12 xl:space-x-5 lg:space-x-4 md:space-x-3 sm:space-x-2 space-x-0 items-center">
                             <div className='relative md:h-[70px] md:w-[70px] w-20 h-14 mr-3'>
                                 <Image
