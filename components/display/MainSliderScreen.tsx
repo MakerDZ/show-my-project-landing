@@ -24,6 +24,7 @@ export default function MainSliderScreen(){
             onActiveIndexChange={(swiper) => {
                 setActiveIndex(swiper.activeIndex);
             }}
+            autoHeight={true}
         >       
                 <SwiperSlide className='slider'>
                     <HomePage />
