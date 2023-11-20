@@ -46,7 +46,7 @@ export default function AboutPage(){
                 </div>
 
                 <div className="w-full pt-14">
-                    <div className="w-full h-36 relative flex flex-col justify-end">
+                    <div className="w-full sm:h-36 h-40 relative flex flex-col justify-end">
                         <div className="flex flex-row">
                             <div className="w-16 text-center">
                                 <div className='relative mx-auto w-12 h-12'>
