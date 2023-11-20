@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 	openGraph : {
 		title : "Show My Project",
 		description : "Techie ​တွေ၊ coder တွေ၊ ui/uxer ​တွေ အတွက် ကိုယ်လုပ်ထားတဲ့ project ​​လေးတွေကို sharing လုပ်လို့ရနိုင်မဲ့​ group ​လေးပဲဖြစ်ပါတယ်။",
-		images : "/thumbnail.png"
+		images : ["/thumbnail.png", "https://us-east-1.tixte.net/uploads/omega.tixte.co/thumbnail-smp.png"]
 	}
 };
 

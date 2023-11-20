@@ -24,7 +24,7 @@ export default function AboutPage(){
                         </div>
                     </div>
                 </div>
-
+                
                 <div className="w-full h-auto sm:pt-14 pt-10">
                     <h3 className="md:text-[1.625rem] text-xl font-extrabold">💭 Imagine a place</h3>
                     <p className="md:text-lg text-base text-[#4E4E4E] pt-6 sm:pt-7">အကယ်၍  မိမိတို့ ဖန်တီးထား​သော project ​လေး​တွေကို သေးငယ်သည်ဖြစ်​စေ၊ ကြီးမားသည်ဖြစ်​စေ စိတ်ထဲ comfortable ဖြစ်ဖြစ်နဲ့သီးသန့် sharing လုပ်လို့ရနိုင်မဲ့ ၊အ​ပြောထက် အလုပ်ပေါ် အ​ခြေခံပြီးမိမိအတွက် potential ရှိတဲ့ network အသစ်​တွေကိုရှာလို့ရမဲ့ ဆန်းသစ်တဲ့ဖန်တီးမှု့​တွေကို အား​ပေးတဲ့ atmosphere ​လေးသာရှိ​နေမယ်​ဆိုရင်ရော။</p>
