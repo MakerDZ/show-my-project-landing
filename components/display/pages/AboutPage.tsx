@@ -27,7 +27,7 @@ export default function AboutPage(){
 
                 <div className="w-full h-auto sm:pt-14 pt-10">
                     <h3 className="md:text-[1.625rem] text-xl font-extrabold">💭 Imagine a place</h3>
-                    <p className="md:text-lg text-base text-[#4E4E4E] pt-6 sm:pt-7">အကယ်၍  မိမိတို့ ဖန်တီးထား​သော project ​လေး​တွေကို သေးငယ်သည်ဖြစ်​စေ၊ ကြီးမားသည်ဖြစ်​စေ စိတ်ထဲ comfortable ဖြစ်ဖြစ်နဲ့သီးသန့် sharing လုပ်လို့ရနိုင်မဲ့ ၊အ​ပြောထက် အလုပ်ပေါ် အ​ခြေခံပြီး potential ရှိတဲ့ network ကိုရှာလို့ရမဲ့ ဆန်းသစ်တဲ့ဖန်တီးမှု့​တွေကို အား​ပေးတဲ့ atmosphere ​လေးသာရှိ​နေမယ်​ဆိုရင်ရော။</p>
+                    <p className="md:text-lg text-base text-[#4E4E4E] pt-6 sm:pt-7">အကယ်၍  မိမိတို့ ဖန်တီးထား​သော project ​လေး​တွေကို သေးငယ်သည်ဖြစ်​စေ၊ ကြီးမားသည်ဖြစ်​စေ စိတ်ထဲ comfortable ဖြစ်ဖြစ်နဲ့သီးသန့် sharing လုပ်လို့ရနိုင်မဲ့ ၊အ​ပြောထက် အလုပ်ပေါ် အ​ခြေခံပြီးမိမိအတွက် potential ရှိတဲ့ network အသစ်​တွေကိုရှာလို့ရမဲ့ ဆန်းသစ်တဲ့ဖန်တီးမှု့​တွေကို အား​ပေးတဲ့ atmosphere ​လေးသာရှိ​နေမယ်​ဆိုရင်ရော။</p>
                 </div>
 
                 <div className="w-full h-auto sm:pt-14 pt-10">
@@ -35,9 +35,35 @@ export default function AboutPage(){
                     <p className="md:text-lg text-base text-[#4E4E4E] pt-6 sm:pt-7">ကျွန်​တော်တို့ မြန်မာနိုင်ငံသား​တွေအတွက် tech နဲ့ပတ်သက်ပြီး တိုင်ပင်​ဆွေး​နွေး၊ sharing လုပ်လို့ရမဲ့ tech related group ​တွေအများကြီးပဲရှိပါတယ်။ ထို group ​တွေရဲ့ ရည်ရွယ်ချက်​တွေက အပြန်အလှန် ကူညီ​ပေးနိုင်ရန် ရည်ရွယ်ပြီး စတင်ထားတာများတဲ့အတွက် group ထဲမှာ ​တွေ့ရများတဲ့ content ​​​တွေက အ​မေး၊အ​ဖြေ post ​တွေ၊ roadmap ​တွေကို လမ်းညွှန်​ပေးတဲ့ post ​​တွေ၊ knowledge sharing post ​​တွေ၊ သင်တန်း​​ကြော်ငြာ post ​တွေ စသည်ဖြင့် သီးသန့်မဟုတ်တဲ့ မတူညီတဲ့ content များစွာဖြင့် ​ပြည့်နက်လျှက်ရှိပါတယ်။</p>
                     <p className="md:text-lg text-base text-[#4E4E4E] pt-6 sm:pt-7">ထို group ​တွေမှာ project sharing လုပ်လို့ရပါတယ်။ ဒါ​ပေမဲ့ မိမိတို့ project sharing လုပ်လိုက်တဲ့ ​နေရာက project ​တွေသီးသန့် sharing လုပ်ဖို့ ဖန်တီးထားတဲ့​နေရာမဟုတ်တဲ့အတွက် တစ်ခဏအတွင်း တစ်ခြား မတူညီတဲ့ content ​တွေက ဖုံးလွှမ်းသွားတက်ပါတယ်။</p>
                     <p className="md:text-lg text-base text-[#4E4E4E] pt-6 sm:pt-7">
-အကယ်၍ သင်က ကိုယ်ဖန်တီးထားတဲ့ project ကိုfeedback ​တောင်းဖို့အတွက်​လောက််ပဲ ရည်ရွယ်ပြီး post တင်ရင် general audience ကြားထဲမှာ ​တော့ အဆင်​ပြေ​ပေမဲ့ အဲ့ထက်ပိုပြီး​မျှော်မှန်းထားတဲ့ သူ​တွေအတွက် potential ရှိတဲ့ learning partner, project partner, contributor, donor, businessman, investor ​တွေကြားထဲ သူတို့ရဲ့ project post ​ရောက်ဖို့က အလွန်ခက်ခဲလှပါတယ်။</p>
+သင်က ကိုယ်ဖန်တီးထားတဲ့ project ကို feedback ​တောင်းဖို့အတွက်​လောက််ပဲ ရည်ရွယ်ပြီး post တင်ရင် general audience ကြားထဲမှာ ​တော့ အဆင်​ပြေ​ပေမဲ့ အဲ့ထက်ပိုပြီး​မျှော်မှန်းထားတဲ့ သူ​တွေအတွက် potential ရှိတဲ့ learning partner, project partner, contributor, donor, businessman, investor ​တွေကြားထဲ သူတို့ရဲ့ project post ​ရောက်ဖို့က အလွန်ခက်ခဲလှပါတယ်။</p>
 <p className="md:text-lg text-base text-[#4E4E4E] pt-6 sm:pt-7">ဘာ​ကြောင့်လဲဆိုရင် အဲ့လိုလိုအပ်​နေတဲ့သူ​တွေအတွက် encourage လုပ်​ပေနိုင်မဲ့ atmosphere ​တွေ
 မဟုတ်​နေလို့ပါပဲ။</p>
+                </div>
+
+                <div className="w-full h-auto sm:pt-14 pt-10">
+                    <h3 className="md:text-[1.625rem] text-xl font-extrabold">⭐ The vision</h3>
+                    <p className="md:text-lg text-base text-[#4E4E4E] pt-6 sm:pt-7">ကိုယ်ပိုင် project ​​လေးတွေဖန်တီးချင်စိတ်ရှိသူတိုင်းအတွက် မိမိတို့ဖန်တီးထား​သော project ​လေး​တွေကို mentally comfortable ဖြစ်ဖြစ်နဲ့ sharing လာလုပ်ပြီး မိမိတို့အလိုရှိ​သော potential network ​အသစ်​တွေရှာ​ဖွေလို့ရမဲ့ quality ​ကောင်းတဲ့ positive atmosphere ​လေး တစ်ခုဖြစ်လာ​စေရန် နှင့် innovate ဖြစ်တဲ့ project များစွာ​​ပေါ်​ပေါက်လာ​စေရန် encourage လုပ်​ပေနိုင်​သော innovative community တစ်ခုဖြစ်လာ​စေရန်။</p>
+                </div>
+
+                <div className="w-full pt-14">
+                    <div className="w-full h-36 relative flex flex-col justify-end">
+                        <div className="flex flex-row">
+                            <div className="w-16 text-center">
+                                <div className='relative mx-auto w-12 h-12'>
+                                    <Image
+                                        src="/omega_profile.jpg"
+                                        alt="The Founder"
+                                        fill
+                                        className="rounded-full"
+                                    />
+                                </div>
+                                <h1 className="text-black font-bold pt-2  text">omega</h1>
+                            </div>
+                            <div className="absolute bg-white max-w-[400px] top-0 sm:left-20 left-16 border-2 border-solid border-[#CDCDCD] py-2 px-4 rounded-3xl rounded-bl-none">
+                                <p className="sm:text-base text-sm text-[#4E4E4E]">အ​ပေါ်က​ပြောပြသွားခဲ့တဲ့ အချက်​​တွေအ​ပေါ်အ​ခြေခံ၍ Show My Project ကို စတင်ခဲ့တာဖြစ်ပါတယ်။</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
